@@ -7,6 +7,6 @@ Esta es la organización en GitHub de la Digital Factory de Lifebox. De momento,
 De momento, la mejor forma es contactar directamente a alguno de los miembros del equipo:
 
 - Felipe Gómez (felipe.gomez@lifebox.cl)
-- Damir Mandakovic (damir.mandakovic@lifebox.cl)
+- Jorge Isla (jorge.isla@lifebox.cl)
 
 Gracias por tu visita! 😄
