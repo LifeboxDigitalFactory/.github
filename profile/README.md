@@ -9,5 +9,6 @@ De momento, la mejor forma es contactar directamente a alguno de los miembros de
 - Felipe Gómez (felipe.gomez@lifebox.cl)
 - Jorge Isla (jorge.isla@lifebox.cl)
 - Matías Bahamonde (matias.bahamonde@lifebox.cl)
+- Rodrigo Pizarro (rodrigo.pizarro@lifebox.cl)
 
 Gracias por tu visita! 😄
